@@ -1,0 +1,1 @@
+{"name":"Local: bai5","url":"d:\\Datastructures\\Lab2\\bai5.cpp","tests":[{"id":1727972338113,"input":"4\n2 4 4 2","output":"8"},{"id":1727972353904,"input":"4\n2 2 3 5","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datastructures\\Lab2\\bai5.cpp","group":"local","local":true}

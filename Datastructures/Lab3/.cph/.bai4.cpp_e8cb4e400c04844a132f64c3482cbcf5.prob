@@ -1,0 +1,1 @@
+{"name":"Local: bai4","url":"d:\\Datastructures\\Lab3\\bai4.cpp","tests":[{"id":1729425607872,"input":"H4ZO2","output":"H4O2Z"},{"id":1729425622511,"input":"N(OY3)2","output":"NO2Y6"},{"id":1729425631528,"input":"Z3(O(N2O3)2)3","output":"N12O21Z3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datastructures\\Lab3\\bai4.cpp","group":"local","local":true}

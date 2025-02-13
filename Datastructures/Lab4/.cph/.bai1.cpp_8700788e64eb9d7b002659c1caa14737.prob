@@ -1,0 +1,1 @@
+{"name":"Local: bai1","url":"d:\\Datastructures\\Lab4\\bai1.cpp","tests":[{"id":1730238369949,"input":"5\n0 -10 -3 5 9","output":"-10 -3 0 5 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datastructures\\Lab4\\bai1.cpp","group":"local","local":true}
