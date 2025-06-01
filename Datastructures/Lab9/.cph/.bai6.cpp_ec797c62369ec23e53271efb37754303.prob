@@ -1,0 +1,1 @@
+{"name":"Local: bai6","url":"d:\\DSA\\Lab9\\bai6.cpp","tests":[{"id":1741952067866,"input":"3 2 1 10\n1 2 1 1 1 1\n2 3 1.1 1 1.1 1","output":"NO"},{"id":1741952077906,"input":"3 2 1 20\n1 2 1 1 1 1\n2 3 1.1 1 1.1 1","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Lab9\\bai6.cpp","group":"local","local":true}

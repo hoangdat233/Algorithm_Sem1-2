@@ -1,0 +1,1 @@
+{"name":"Local: bai3","url":"d:\\DSA\\Lab9\\bai3.cpp","tests":[{"id":1741951086230,"input":"4 4\n1 3\n1 2 1\n3 4 5\n3 2 2\n4 1 4","output":"3"},{"id":1741951286537,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Lab9\\bai3.cpp","group":"local","local":true}

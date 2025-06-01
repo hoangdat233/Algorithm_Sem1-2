@@ -1,0 +1,1 @@
+{"name":"Local: bai2","url":"d:\\Datastructures\\Lab8\\bai2.cpp","tests":[{"id":1739835642117,"input":"7 8 5\n1 2\n2 3\n3 4\n4 5\n5 1\n5 6\n6 7\n7 6\n1 4\n5 6\n6 7\n2 5\n1 7","output":"YES\nNO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datastructures\\Lab8\\bai2.cpp","group":"local","local":true}
